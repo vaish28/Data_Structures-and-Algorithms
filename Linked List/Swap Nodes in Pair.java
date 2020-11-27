@@ -1,3 +1,16 @@
+/*
+  Given a linked list, swap every two adjacent nodes and print linked list
+  note: You may not modify the values in the list's nodes, only nodes itself may be changed.
+  
+  Sample Input
+  5
+  1 2 3 4 5 
+  Sample Output
+  1 -> 2 -> 3 -> 4 -> 5 -> 
+  2 -> 1 -> 4 -> 3 -> 5 ->
+  
+ @author Vaishnavi Madhekar
+*/
 import java.util.*;
 public class Main 
 {
